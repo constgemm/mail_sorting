@@ -6,8 +6,8 @@ The **aim** is to create a tool to scan your (paper) mail, turn it into a pdf an
 - [ ] apply Google lens
 - [ ] create a pdf from it
 - [ ] apply NLP (ML) to pdf and understand the content
-- [ ] 
+- [ ] sort the file according to its content
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA5MDg1NV19
+eyJoaXN0b3J5IjpbMTY5NDM4MTI0XX0=
 -->
