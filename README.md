@@ -12,7 +12,7 @@ The **aim** is to create a tool to scan your (paper) mail, turn it into a pdf an
 
 
 #### footnotes
-###### readme created with stackedit
+###### readme created with StackEdit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxNDE3NTYxXX0=
+eyJoaXN0b3J5IjpbLTIxMTk0NzYyNjNdfQ==
 -->
