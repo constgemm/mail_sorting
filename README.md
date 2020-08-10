@@ -1,6 +1,8 @@
 # Paper Mail Sorting
-The **aim** is to create a tool to scan your (paper) mail, turn it into a pdf and label it with tags to find it in you explorer.
-### collecting ideas 
+### Aim
+The aim is to create a tool to scan your (paper) mail, turn it into a pdf and label it with tags to find it in you explorer.
+
+### Collecting ideas 
 - using CamScanner and your phone instead of a scanner? [https://dev.camscanner.com/](https://dev.camscanner.com/)
 - Google Lens text recognision [https://developers.google.com/vision/android/text-overview](https://developers.google.com/vision/android/text-overview)
 
@@ -19,5 +21,5 @@ The **aim** is to create a tool to scan your (paper) mail, turn it into a pdf an
 #### footnotes
 ###### readme created with StackEdit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyNDUwMDRdfQ==
+eyJoaXN0b3J5IjpbLTc2NzM4NDQxNl19
 -->
