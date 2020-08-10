@@ -9,6 +9,8 @@ The **aim** is to create a tool to scan your (paper) mail, turn it into a pdf an
 - [ ] apply NLP (ML) to pdf and understand the content
 - [ ] sort the file according to its content
 
+#### footnotes
+###### readme created with stackedit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxODg3MjU0XX0=
+eyJoaXN0b3J5IjpbLTE1Nzc2NTY1NzldfQ==
 -->
