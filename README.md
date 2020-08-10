@@ -2,7 +2,9 @@
 The **aim** is to create a tool to scan your (paper) mail, turn it into a pdf and label it with tags to find it in you explorer.
 ### collecting ideas 
 - using CamScanner and your phone instead of a scanner? [https://dev.camscanner.com/](https://dev.camscanner.com/)
-- 
+- Google Lens text recognision [https://developers.google.com/vision/android/text-overview](https://developers.google.com/vision/android/text-overview)
+
+
 ### Todo
 - [ ] get started
 - [ ] scan paper
@@ -17,5 +19,5 @@ The **aim** is to create a tool to scan your (paper) mail, turn it into a pdf an
 #### footnotes
 ###### readme created with StackEdit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwMzAzMTk3XX0=
+eyJoaXN0b3J5IjpbNDAyNDUwMDRdfQ==
 -->
